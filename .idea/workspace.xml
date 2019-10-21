@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5bd61037-b223-4616-ac47-212ddacdb0d6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/counter.jsx" afterDir="false" />
+    <list default="true" id="5bd61037-b223-4616-ac47-212ddacdb0d6" name="Default Changelist" comment="first increment button and component">
+      <change afterPath="$PROJECT_DIR$/src/components/counters.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/counter.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/counter.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -69,8 +67,17 @@
       <updated>1571569059026</updated>
       <workItem from="1571569060403" duration="571000" />
       <workItem from="1571569703416" duration="131000" />
-      <workItem from="1571569875262" duration="6847000" />
+      <workItem from="1571569875262" duration="8156000" />
+      <workItem from="1571670332415" duration="5622000" />
     </task>
+    <task id="LOCAL-00001" summary="first increment button and component">
+      <created>1571589002782</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571589002782</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,5 +95,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first increment button and component" />
+    <option name="LAST_COMMIT_MESSAGE" value="first increment button and component" />
   </component>
 </project>
